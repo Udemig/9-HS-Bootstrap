@@ -4,4 +4,4 @@
 
 ## Gif
 
-<img src="./images/home1.jpg"/>
+<img src=""/>
